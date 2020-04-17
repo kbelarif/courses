@@ -1,0 +1,2 @@
+rootProject.name='MaroCourses'
+include ':app'
